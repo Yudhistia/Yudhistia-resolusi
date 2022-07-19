@@ -1,0 +1,11 @@
+Yudhistia Resolusi 2022
+-Belajar GIT dan GitHub
+-Belajar HTML
+-Belajar CSS
+-Belajar Tailwind CSS
+-Belajar JS
+-Belajar Php
+-Belajar JavaScript
+-Belajar Bootstrap
+-Belajar Laravel
+-Membuat Web Sederhana
